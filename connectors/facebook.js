@@ -9,7 +9,7 @@ var newRequest = request.defaults({
 	method: 'POST',
 	json: true,
 	qs: {
-		access_token: Config.FB_PAGE_TOKEN
+		access_token: 'EAACdX9HES4kBAHPmuANZAs7jRrVozbPTsZB7REFEfzwkZAXKId4Lb6ZA3pecZCckHNTsBnkEYfNGGKM2cbfjMUVM9yK78lRnqRZBzQWuRtXbVVJYABFqSq2Ej09NmwBBR300e6hvNi67kz44O7gjsxvDcMPNrEiDglYm7aIXK8nHy5MDb1kJBa'
 	},
 	headers: {
 		'Content-Type': 'application/json'
